@@ -1,4 +1,4 @@
 __author__ = 'Yue'
 
-file=open("D:/Python/PythonProgram/IO.txt","rt");
+file=open("../IO.txt","rt");
 file.read()
